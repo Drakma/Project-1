@@ -1,0 +1,7 @@
+{
+  "inventory": {
+    "0:0": "{id:\"minecraft:torch\",Count:1b}",
+    "0:1": "{id:\"minecraft:oak_sapling\",Count:1b}"
+  },
+  "wipeBlacklist": []
+}

@@ -1,0 +1,10 @@
+{
+    "replace": true,
+    "values": [
+        "#forge:storage_blocks/brass",
+        "#forge:storage_blocks/bronze",
+        "#forge:storage_blocks/copper",
+        "#forge:storage_blocks/lead",
+        "#forge:storage_blocks/zinc"
+    ]
+}

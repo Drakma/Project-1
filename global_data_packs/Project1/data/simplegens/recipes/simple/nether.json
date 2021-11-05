@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "CCC",
+        "IXI",
+        "SSS"
+    ],
+    "key": {
+        "C": {
+            "tag": "forge:ingots/netherite"
+        },
+        "I": {
+            "tag": "forge:ingots/iron"
+        },
+        "X": {
+            "item": "minecraft:blast_furnace"
+        },
+        "S": {
+            "item": "minecraft:smooth_stone"
+        }
+    },
+    "result": {
+        "item": "simplegens:simple_nether",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

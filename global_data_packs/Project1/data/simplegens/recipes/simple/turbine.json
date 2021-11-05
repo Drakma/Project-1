@@ -1,0 +1,25 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "IIII",
+        "XPPX",
+        "XPPX",
+        "IIII"
+    ],
+    "key": {
+        "P": {
+            "item": "create:propeller"
+        },
+        "I": {
+            "tag": "forge:plates/iron"
+        },
+        "X": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "simplegens:simple_turbine",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

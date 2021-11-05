@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "create:copper_ore",
+        "exnihilosequentia:chunk_copper"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "CCC",
+        "IXI",
+        "SSS"
+    ],
+    "key": {
+        "C": {
+            "tag": "forge:dyes/pink"
+        },
+        "I": {
+            "tag": "forge:ingots/iron"
+        },
+        "X": {
+            "item": "minecraft:blast_furnace"
+        },
+        "S": {
+            "item": "minecraft:smooth_stone"
+        }
+    },
+    "result": {
+        "item": "simplegens:simple_pink",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

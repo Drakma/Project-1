@@ -1,0 +1,8 @@
+{
+    "items": [
+        "appliedenergistics2:facade"
+    ],
+    "tooltips": [
+        ["", { "text": "Facades are hidden but still craftable", "color": "red" }]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "eidolon:lead_ore",
+        "exnihilosequentia:chunk_lead"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "create:pressing",
+    "ingredients": [{
+        "tag": "forge:ingots/bronze"
+    }],
+    "results": [{
+        "item": "steampowered:bronze_sheet"
+    }]
+}

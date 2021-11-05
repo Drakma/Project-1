@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "ingredients": [{
+            "item": "minecraft:redstone"
+        }, {
+            "item": "minecraft:redstone"
+        }, {
+            "item": "minecraft:redstone"
+        }, {
+            "item": "minecraft:redstone"
+        }, {
+            "item": "minecraft:redstone"
+        }, {
+            "item": "minecraft:redstone"
+        }, {
+            "item": "minecraft:redstone"
+        }, {
+            "item": "minecraft:redstone"
+        },
+        {
+            "item": "minecraft:quartz"
+        }
+    ],
+    "results": [{
+        "item": "create:rose_quartz",
+        "count": 1
+    }],
+    "heatRequirement": "heated"
+}

@@ -1,0 +1,28 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "DIID",
+        "XPPX",
+        "XPPX",
+        "DIID"
+    ],
+    "key": {
+        "D": {
+            "item": "mob_grinding_utils:solid_xp_block"
+        },
+        "P": {
+            "item": "mob_grinding_utils:tank_sink"
+        },
+        "I": {
+            "tag": "forge:plates/iron"
+        },
+        "X": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "simplegens:simple_xp",
+        "count": 1
+    },
+    "acceptMirrored": false
+}
