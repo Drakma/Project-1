@@ -1,0 +1,25 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "L  L",
+        "LSSL",
+        " PP ",
+        " PP "
+    ],
+    "key": {
+        "P": {
+            "tag": "forge:ingots/pewter"
+        },
+        "S": {
+            "item": "minecraft:smooth_stone"
+        },
+        "L": {
+            "item": "minecraft:smooth_stone_slab"
+        }
+    },
+    "result": {
+        "item": "eidolon:stone_hand",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

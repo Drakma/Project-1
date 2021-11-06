@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "P  P",
+        "P  P",
+        "P  P",
+        "PPPP"
+    ],
+    "key": {
+        "P": {
+            "tag": "forge:ingots/pewter"
+        }
+    },
+    "result": {
+        "item": "eidolon:crucible",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

@@ -1,0 +1,28 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "SSSSS",
+        "SBBBS",
+        "SIIIS",
+        "PPPPP"
+    ],
+    "key": {
+        "P": {
+            "tag": "forge:ingots/pewter"
+        },
+        "S": {
+            "item": "minecraft:smooth_stone"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "I": {
+            "item": "eidolon:pewter_inlay"
+        }
+    },
+    "result": {
+        "item": "eidolon:necrotic_focus",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

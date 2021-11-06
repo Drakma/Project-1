@@ -4,7 +4,7 @@ import crafttweaker.api.tag.MCTag;
 # Remove FTBLibrary containers because useless item is useless
 mods.jei.JEI.hideMod("ftblibrary");
 
-#Hide all of the AE2 Facades to clean up JEI
+# Hide all of the AE2 Facades to clean up JEI
 mods.jei.JEI.hideItem(<item:appliedenergistics2:facade>);
 mods.jei.JEI.addItem(<item:appliedenergistics2:facade>.withTag({item: "minecraft:acacia_log" as string}));
 
@@ -61,6 +61,15 @@ var removeAndHideItems = [
   <item:exnihilosequentia:spruce_crucible>,
   <item:exnihilosequentia:crimson_crucible>,
   <item:exnihilosequentia:warped_crucible>,
+  <item:botania:apothecary_forest>,
+  <item:botania:apothecary_plains>,
+  <item:botania:apothecary_mountain>,
+  <item:botania:apothecary_fungal>,
+  <item:botania:apothecary_swamp>,
+  <item:botania:apothecary_desert>,
+  <item:botania:apothecary_taiga>,
+  <item:botania:apothecary_mesa>,
+  <item:botania:apothecary_mossy>,
 ];
 
 for Item in removeAndHideItems {
@@ -214,6 +223,22 @@ for Recipe in removeRecipes {
   craftingTable.removeByName(Recipe);
 }
 */
+
+/* ========================================================================== */
+/* Remove By Furnace Recipes                                                  */
+/* ========================================================================== */
+
+
+var removeRecipes = [
+  <item:eidolon:pewter_ingot>,
+  <item:eidolon:enchanted_ash>,
+];
+
+for Recipe in removeRecipes {
+  furnace.removeRecipe(Recipe);
+  blastFurnace.removeRecipe(Recipe);
+}
+
 
 /* ========================================================================== */
 /* Mystical Agriculture Seeds                                                 */

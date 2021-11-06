@@ -1,0 +1,25 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "LFFL",
+        "LLLL",
+        " SS ",
+        "SSSS"
+    ],
+    "key": {
+        "F": {
+            "tag": "botania:petals"
+        },
+        "L": {
+            "item": "minecraft:cobblestone_slab"
+        },
+        "S": {
+            "tag": "forge:cobblestone"
+        }
+    },
+    "result": {
+        "item": "botania:apothecary_default",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

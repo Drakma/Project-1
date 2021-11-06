@@ -1,0 +1,25 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "P  P",
+        " PP ",
+        " CC ",
+        "S  S"
+    ],
+    "key": {
+        "P": {
+            "tag": "forge:ingots/pewter"
+        },
+        "C": {
+            "tag": "forge:storage_blocks/coal"
+        },
+        "S": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result": {
+        "item": "eidolon:brazier",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

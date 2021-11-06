@@ -1,0 +1,25 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "CCCCC",
+        "PWWWP",
+        "PWWWP",
+        "WWWWW"
+    ],
+    "key": {
+        "P": {
+            "tag": "forge:ingots/pewter"
+        },
+        "C": {
+            "item": "minecraft:red_carpet"
+        },
+        "W": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "eidolon:worktable",
+        "count": 1
+    },
+    "acceptMirrored": false
+}
