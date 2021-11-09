@@ -1,0 +1,18 @@
+{
+    "oreConfig": [{
+        "ore": "tconstruct_cobalt",
+        "filler": "minecraft:netherrack",
+        "minY": 1,
+        "maxY": 250,
+        "maxVeinSize": 2,
+        "spawnRate": 2.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "minecraft:basalt_deltas",
+            "minecraft:crimson_forest",
+            "minecraft:nether_wastes",
+            "minecraft:soul_sand_valley",
+            "minecraft:warped_forest"
+        ]
+    }]
+}

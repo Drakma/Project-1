@@ -85,20 +85,17 @@ var hideItems = [
   <item:create:crushed_aluminum_ore>,
   <item:create:crushed_nickel_ore>,
   <item:create:crushed_platinum_ore>,
-  <item:create:crushed_silver_ore>,
   <item:create:crushed_tin_ore>,
   <item:create:crushed_uranium_ore>,
   <item:elementalcraft:pure_ore>.withTag({elementalcraft: {ore: {id: "exnihilosequentia:chunk_aluminum" as string, Count: 1 as byte}}}),
   <item:elementalcraft:pure_ore>.withTag({elementalcraft: {ore: {id: "exnihilosequentia:chunk_nickel" as string, Count: 1 as byte}}}),
   <item:elementalcraft:pure_ore>.withTag({elementalcraft: {ore: {id: "exnihilosequentia:chunk_platinum" as string, Count: 1 as byte}}}),
-  <item:elementalcraft:pure_ore>.withTag({elementalcraft: {ore: {id: "exnihilosequentia:chunk_silver" as string, Count: 1 as byte}}}),
   <item:elementalcraft:pure_ore>.withTag({elementalcraft: {ore: {id: "exnihilosequentia:chunk_tin" as string, Count: 1 as byte}}}),
   <item:elementalcraft:pure_ore>.withTag({elementalcraft: {ore: {id: "exnihilosequentia:chunk_uranium" as string, Count: 1 as byte}}}),
-  <item:exnihilosequentia:chunk_silver>,
   <item:exnihilosequentia:ingot_copper>,
   <item:exnihilosequentia:ingot_lead>,
   <item:exnihilosequentia:ingot_zinc>,
-  <item:exnihilosequentia:piece_silver>,
+  <item:exnihilosequentia:ingot_silver>,
   <item:simplegens:simple_fluid_combustion>,
   <item:simplegens:simple_statue>,
   <item:tconstruct:molten_aluminum_bucket>,
@@ -176,6 +173,8 @@ var hideItems = [
 	<item:minecraft:turtle_spawn_egg>,
   <item:ars_nouveau:carbuncle_se>,
   <item:ars_nouveau:sylph_se>,
+  <item:iceandfire:copper_ore>,
+  <item:tconstruct:copper_ore>,
 ];
 
 for Item in hideItems {
@@ -227,8 +226,6 @@ for Recipe in removeRecipes {
 /* ========================================================================== */
 /* Remove By Furnace Recipes                                                  */
 /* ========================================================================== */
-
-
 var removeRecipes = [
   <item:eidolon:pewter_ingot>,
   <item:eidolon:enchanted_ash>,

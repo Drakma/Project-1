@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "forbidden_arcanus:xpetrified_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 32,
+        "maxVeinSize": 1,
+        "spawnRate": 3.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["ddd:deep_dark"]
+    }]
+}

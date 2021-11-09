@@ -1,0 +1,14 @@
+{
+    "oreConfig": [{
+        "ore": "powah:uraninite_ore",
+        "filler": "minecraft:stone",
+        "minY": 20,
+        "maxY": 36,
+        "maxVeinSize": 8,
+        "spawnRate": 4.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "ddd:deep_dark"
+        ]
+    }]
+}

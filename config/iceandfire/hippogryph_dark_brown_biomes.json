@@ -1,0 +1,26 @@
+{
+    "biomes": [
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "topography:archwood"
+            },
+            {
+                "type": "REGISTRY_NAME",
+                "negate": false,
+                "value": "minecraft:taiga_mountains"
+            }
+        ],
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "topography:archwood"
+            },
+            {
+                "type": "REGISTRY_NAME",
+                "negate": false,
+                "value": "minecraft:taiga_hills"
+            }
+        ]
+    ]
+}

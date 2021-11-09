@@ -1,0 +1,28 @@
+{
+    "items": [
+        "ars_nouveau:blue_archwood_log",
+        "ars_nouveau:green_archwood_log",
+        "ars_nouveau:purple_archwood_log",
+        "ars_nouveau:red_archwood_log",
+        "botania:metamorphic_desert_stone",
+        "botania:metamorphic_forest_stone",
+        "botania:metamorphic_fungal_stone",
+        "botania:metamorphic_mesa_stone",
+        "botania:metamorphic_mountain_stone",
+        "botania:metamorphic_swamp_stone",
+        "botania:metamorphic_taiga_stone",
+        "forbidden_arcanus:arcane_crystal_ore",
+        "forbidden_arcanus:cherrywood_log",
+        "malum:runewood_log",
+        "mythicbotany:dragonstone_ore",
+        "mythicbotany:elementium_ore",
+        "mythicbotany:gold_ore",
+        "forbidden_arcanus:dark_runestone",
+        "forbidden_arcanus:runestone",
+        "forbidden_arcanus:xpetrified_ore",
+        "forbidden_arcanus:stella_arcanum"
+    ],
+    "tooltips": [
+        ["", { "text": "Found in: ", "color": "green" }, { "text": "Alfheim", "color": "yellow" }]
+    ]
+}

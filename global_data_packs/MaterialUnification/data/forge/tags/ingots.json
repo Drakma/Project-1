@@ -8,6 +8,7 @@
         "#forge:ingots/iron",
         "#forge:ingots/lead",
         "#forge:ingots/netherite",
+        "#forge:ingots/silver",
         "#forge:ingots/zinc"
     ]
 }

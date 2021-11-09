@@ -1,0 +1,15 @@
+{
+    "biomes": [
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "topography:archwood"
+            },
+            {
+                "type": "BIOME_CATEGORY",
+                "negate": false,
+                "value": "jungle"
+            }
+        ]
+    ]
+}

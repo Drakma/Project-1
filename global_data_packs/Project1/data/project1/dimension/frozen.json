@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": -170298245,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:deep_frozen_ocean",
+                "minecraft:frozen_ocean",
+                "minecraft:frozen_river",
+                "minecraft:snowy_mountains",
+                "minecraft:snowy_tundra",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:snowy_taiga"
+            ]
+        }
+    }
+}

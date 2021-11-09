@@ -1,0 +1,18 @@
+{
+    "oreConfig": [{
+        "ore": "forbidden_arcanus:xpetrified_ore",
+        "filler": "botania:livingrock",
+        "minY": 1,
+        "maxY": 64,
+        "maxVeinSize": 6,
+        "spawnRate": 9.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "mythicbotany:alfheim_hills",
+            "mythicbotany:alfheim_plains",
+            "mythicbotany:alfheim_lakes",
+            "mythicbotany:golden_fields",
+            "mythicbotany:dreamwood_forest"
+        ]
+    }]
+}

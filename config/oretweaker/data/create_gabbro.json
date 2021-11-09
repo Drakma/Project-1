@@ -1,0 +1,14 @@
+{
+    "oreConfig": [{
+        "ore": "create:gabbro",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 65,
+        "maxVeinSize": 24,
+        "spawnRate": 4.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "ddd:deep_dark"
+        ]
+    }]
+}

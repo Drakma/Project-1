@@ -1,0 +1,14 @@
+{
+    "oreConfig": [{
+        "ore": "mythicbotany:dragonstone_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 16,
+        "maxVeinSize": 3,
+        "spawnRate": 2.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "ddd:deep_dark"
+        ]
+    }]
+}

@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "minecraft:coal_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 64,
+        "maxVeinSize": 16,
+        "spawnRate": 10.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["ddd:deep_dark"]
+    }]
+}

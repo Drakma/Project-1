@@ -1,0 +1,36 @@
+{
+    "items": [
+        "minecraft:coal_ore",
+        "minecraft:iron_ore",
+        "minecraft:gold_ore",
+        "minecraft:lapis_ore",
+        "minecraft:diamond_ore",
+        "minecraft:redstone_ore",
+        "minecraft:emerald_ore",
+        "appliedenergistics2:quartz_ore",
+        "appliedenergistics2:charged_quartz_ore",
+        "minecraft:nether_quartz_ore",
+        "elementalcraft:crystalore",
+        "create:copper_ore",
+        "create:zinc_ore",
+        "mysticalagriculture:prosperity_ore",
+        "mysticalagriculture:inferium_ore",
+        "mythicbotany:elementium_ore",
+        "mythicbotany:dragonstone_ore",
+        "draconicevolution:overworld_draconium_ore",
+        "tconstruct:cobalt_ore",
+        "minecraft:ancient_debris",
+        "powah:uraninite_ore_poor",
+        "powah:uraninite_ore",
+        "powah:uraninite_ore_dense",
+        "create:gabbro",
+        "create:dolomite",
+        "create:limestone",
+        "create:weathered_limestone",
+        "create:scoria",
+        "eidolon:lead_ore"
+    ],
+    "tooltips": [
+        ["", { "text": "Found in: ", "color": "green" }, { "text": "Infinite Dark", "color": "blue" }]
+    ]
+}

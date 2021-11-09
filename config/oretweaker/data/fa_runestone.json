@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "forbidden_arcanus:runestone",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 64,
+        "maxVeinSize": 5,
+        "spawnRate": 3.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["ddd:deep_dark"]
+    }]
+}

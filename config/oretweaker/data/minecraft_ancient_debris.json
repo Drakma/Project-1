@@ -1,0 +1,14 @@
+{
+    "oreConfig": [{
+        "ore": "minecraft:ancient_debris",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 8,
+        "maxVeinSize": 1,
+        "spawnRate": 0.5,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "ddd:deep_dark"
+        ]
+    }]
+}

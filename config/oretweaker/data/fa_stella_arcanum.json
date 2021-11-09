@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "forbidden_arcanus:stella_arcanum",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 8,
+        "maxVeinSize": 1,
+        "spawnRate": 1.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["ddd:deep_dark"]
+    }]
+}

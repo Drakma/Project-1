@@ -1,0 +1,15 @@
+{
+    "biomes": [
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "topography:archwood"
+            },
+            {
+                "type": "REGISTRY_NAME",
+                "negate": false,
+                "value": "minecraft:savanna_plateau"
+            }
+        ]
+    ]
+}

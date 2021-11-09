@@ -1,0 +1,14 @@
+{
+    "oreConfig": [{
+        "ore": "mysticalagriculture:prosperity_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 65,
+        "maxVeinSize": 12,
+        "spawnRate": 4.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "ddd:deep_dark"
+        ]
+    }]
+}

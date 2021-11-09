@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "create:copper_ore",
+        "filler": "minecraft:stone",
+        "minY": 30,
+        "maxY": 70,
+        "maxVeinSize": 8,
+        "spawnRate": 6.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["ddd:deep_dark"]
+    }]
+}

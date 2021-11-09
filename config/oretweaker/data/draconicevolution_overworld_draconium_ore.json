@@ -1,0 +1,14 @@
+{
+    "oreConfig": [{
+        "ore": "draconicevolution:overworld_draconium_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 8,
+        "maxVeinSize": 5,
+        "spawnRate": 1.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "ddd:deep_dark"
+        ]
+    }]
+}

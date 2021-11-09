@@ -1,0 +1,26 @@
+{
+    "biomes": [
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "topography:archwood"
+            },
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "mountains"
+            }
+        ],
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "topography:archwood"
+            },
+            {
+                "type": "BIOME_CATEGORY",
+                "negate": false,
+                "value": "extreme_hills"
+            }
+        ]
+    ]
+}

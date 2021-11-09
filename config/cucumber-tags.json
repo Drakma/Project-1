@@ -7,7 +7,7 @@
   "forge:ingots/tin": "mysticalworld:tin_ingot",
   "forge:ingots/iridium": "null",
   "forge:ingots/zinc": "create:zinc_ingot",
-  "forge:gems/sapphire": "null",
+  "forge:gems/sapphire": "iceandfire:sapphire_gem",
   "forge:ingots/bronze": "tconstruct:tinkers_bronze_ingot",
   "forge:ingots/copper": "mysticalworld:copper_ingot",
   "forge:ingots/invar": "null",

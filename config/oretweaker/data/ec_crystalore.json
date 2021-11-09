@@ -1,0 +1,12 @@
+{
+    "oreConfig": [{
+        "ore": "elementalcraft:crystalore",
+        "filler": "minecraft:stone",
+        "minY": 30,
+        "maxY": 60,
+        "maxVeinSize": 8,
+        "spawnRate": 4.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": ["ddd:deep_dark"]
+    }]
+}

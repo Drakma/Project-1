@@ -1,0 +1,22 @@
+{
+    "oreConfig": [{
+        "ore": "iceandfire:sapphire_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 32,
+        "maxVeinSize": 3,
+        "spawnRate": 5.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+            "ars_nouveau:archwood_forest",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:frozen_ocean",
+            "minecraft:frozen_river",
+            "minecraft:snowy_mountains",
+            "minecraft:snowy_tundra",
+            "minecraft:snowy_taiga_mountains",
+            "minecraft:snowy_taiga_hills",
+            "minecraft:snowy_taiga"
+        ]
+    }]
+}
