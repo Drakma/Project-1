@@ -46,3 +46,6 @@ config/jei/recipe-category-sort-order.ini
 config/jei/bookmarks.ini
 minecraftinstance.json
 /downloads
+/ddd_cache.json
+/skyblock_exports
+/grep2File.g2f.txt

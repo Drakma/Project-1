@@ -1,11 +1,11 @@
 {
     "oreConfig": [{
-        "ore": "tconstruct_cobalt",
+        "ore": "tconstruct:cobalt_ore",
         "filler": "minecraft:netherrack",
-        "minY": 1,
-        "maxY": 250,
-        "maxVeinSize": 2,
-        "spawnRate": 2.0,
+        "minY": 30,
+        "maxY": 90,
+        "maxVeinSize": 6,
+        "spawnRate": 9.0,
         "biomeBlacklist": [],
         "biomeWhitelist": [
             "minecraft:basalt_deltas",
